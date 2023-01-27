@@ -1,0 +1,61 @@
+{
+    "Title": "Time taken Statistics",
+    "xlim start": 0,
+    "xlim end": 0,
+    "ylim start": 59.0,
+    "ylim end": 79.0,
+    "Labels": [
+        "Generation",
+        "Timesteps"
+    ],
+    "Lines": [
+        {
+            "Label": "Mean time taken",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                68.828
+            ],
+            "kwargs": {
+                "color": "orange"
+            }
+        },
+        {
+            "Label": "1st Quartile time taken",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                79.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        },
+        {
+            "Label": "2nd Quartile time taken",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                67.0
+            ],
+            "kwargs": {
+                "color": "green"
+            }
+        },
+        {
+            "Label": "3rd Quartile time taken",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                59.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        }
+    ]
+}

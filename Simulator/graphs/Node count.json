@@ -1,0 +1,74 @@
+{
+    "Title": "Network Node Count Statistics",
+    "xlim start": 0,
+    "xlim end": 0,
+    "ylim start": 0,
+    "ylim end": 0,
+    "Labels": [
+        "Generation",
+        "Node Count"
+    ],
+    "Lines": [
+        {
+            "Label": "Best Network Node Count",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                0
+            ],
+            "kwargs": {
+                "color": "lightblue",
+                "linestyle": "dashed"
+            }
+        },
+        {
+            "Label": "Mean Node count",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                0.0
+            ],
+            "kwargs": {
+                "color": "orange"
+            }
+        },
+        {
+            "Label": "1st Quartile Node count",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                0.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        },
+        {
+            "Label": "2nd Quartile Node count",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                0.0
+            ],
+            "kwargs": {
+                "color": "green"
+            }
+        },
+        {
+            "Label": "3rd Quartile Node count",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                0.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        }
+    ]
+}

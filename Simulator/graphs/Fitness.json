@@ -1,0 +1,74 @@
+{
+    "Title": "Network Fitness Statistics",
+    "xlim start": 0,
+    "xlim end": 0,
+    "ylim start": -546.4907887801515,
+    "ylim end": 26.624889213859774,
+    "Labels": [
+        "Generation",
+        "Fitness"
+    ],
+    "Lines": [
+        {
+            "Label": "Peak Fitness",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                26.624889213859774
+            ],
+            "kwargs": {
+                "color": "lightblue",
+                "linestyle": "dashed"
+            }
+        },
+        {
+            "Label": "Mean Fitness",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                -360.6177109361535
+            ],
+            "kwargs": {
+                "color": "orange"
+            }
+        },
+        {
+            "Label": "1st Quartile Fitness",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                -133.04130217652929
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        },
+        {
+            "Label": "2nd Quartile Fitness",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                -201.34104218463807
+            ],
+            "kwargs": {
+                "color": "green"
+            }
+        },
+        {
+            "Label": "3rd Quartile Fitness",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                -546.4907887801515
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        }
+    ]
+}

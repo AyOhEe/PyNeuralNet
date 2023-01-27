@@ -1,0 +1,74 @@
+{
+    "Title": "Connections in network Statistics",
+    "xlim start": 0,
+    "xlim end": 0,
+    "ylim start": 1,
+    "ylim end": 1,
+    "Labels": [
+        "Generation",
+        "N. Connections"
+    ],
+    "Lines": [
+        {
+            "Label": "Best network connections",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                1
+            ],
+            "kwargs": {
+                "color": "lightblue",
+                "linestyle": "dashed"
+            }
+        },
+        {
+            "Label": "Mean connections",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                1.0
+            ],
+            "kwargs": {
+                "color": "orange"
+            }
+        },
+        {
+            "Label": "1st Quartile connections",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                1.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        },
+        {
+            "Label": "2nd Quartile connections",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                1.0
+            ],
+            "kwargs": {
+                "color": "green"
+            }
+        },
+        {
+            "Label": "3rd Quartile connections",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                1.0
+            ],
+            "kwargs": {
+                "color": "lightgreen"
+            }
+        }
+    ]
+}

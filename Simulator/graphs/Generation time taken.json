@@ -1,0 +1,25 @@
+{
+    "Title": "\u0394Time for Generation Statistics",
+    "xlim start": 0,
+    "xlim end": 0,
+    "ylim start": 23.001274824142456,
+    "ylim end": 23.001274824142456,
+    "Labels": [
+        "Generation",
+        "\u0394Time(seconds)"
+    ],
+    "Lines": [
+        {
+            "Label": "\u0394Time for Generationn",
+            "DataX": [
+                0
+            ],
+            "DataY": [
+                23.001274824142456
+            ],
+            "kwargs": {
+                "color": "orange"
+            }
+        }
+    ]
+}
